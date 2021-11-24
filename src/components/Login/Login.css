@@ -1,0 +1,9 @@
+.login-form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: lightgreen;
+    padding-block: 50px;
+    border: 2px solid tomato;
+    border-radius: 10px;
+}

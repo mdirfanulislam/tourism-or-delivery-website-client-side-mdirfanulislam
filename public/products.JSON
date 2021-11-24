@@ -1,0 +1,44 @@
+[
+    {
+        "key": "1",
+        "name": "Chittagong to Nilgiri Bandarban",
+        "img": "https://dailyasianage.com/library/2019/12/21/1576957938_5.jpg",
+        "amount": 1000,
+        "describe": "Nilgiri is a collection of multiple variable sizes hill area in Bandarban. Bandarban itself is a hill district in Banglades."
+    },
+    {
+        "key": "2",
+        "name": "Chittagong to Sajek Valley Rangamati Bandarban",
+        "img": "https://www.travelmate.com.bd/wp-content/uploads/2019/06/sajek-valley-01.jpg",
+        "amount": 4000,
+        "describe": "Sajek Valley is one of the popular tourist spots in Bangladesh situated among the hills of the Kasalong range of mountains"
+    },
+    {
+        "key": "3",
+        "name": "Chittagong to Cox Bazar Sea-beach",
+        "img": "https://i.ytimg.com/vi/ZcKIFo0S3IA/hqdefault.jpg",
+        "amount": 2000,
+        "describe": "Cox's Bazar Beach, located at Cox's Bazar, Bangladesh, is the longest natural sea beach in the world running 150 kilometres (93 mi)"
+    },
+    {
+        "key": "4",
+        "name": "Chittagong to Sundarban Bagerhat",
+        "img": "https://ak.picdn.net/shutterstock/videos/1050882769/thumb/1.jpg?ip=x480",
+        "amount": 15000,
+        "describe": "Sundarbans is a mangrove area in the delta formed by the confluence of the Ganges, Brahmaputra and Meghna Rivers in the Bay of Bengal."
+    },
+    {
+        "key": "5",
+        "name": "Chittagong to St. Martin's Island",
+        "img": "http://touristplace.bangladeshinformation.info/wp-content/uploads/sites/7/2014/03/St.-Martins-Island.jpg",
+        "amount": 5000,
+        "describe": "St. Martin's Island is a small island in the northeastern part of the Bay of Bengal, south of the Cox's Bazar the southernmost part of Bangladesh."
+    },
+    {
+        "key": "6",
+        "name": "Chittagong to Jaflong Sylhet Gowainghat Upazila",
+        "img": "https://www.daily-bangladesh.com/media/imgAll/2020June/en/Jaflong-2008050221.jpg",
+        "amount": 10000,
+        "describe": "Jaflong is a hill station and tourist destination in the Division of Sylhet, Bangladesh. It is located in Gowainghat Upazila of Sylhet District."
+    }
+]
