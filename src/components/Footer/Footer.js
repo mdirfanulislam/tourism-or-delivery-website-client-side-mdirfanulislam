@@ -1,11 +1,8 @@
 import React from 'react';
 import { FormControl, InputGroup, Row } from 'react-bootstrap';
 import Button from '@restart/ui/esm/Button';
-// import { faIdCard } from '@fortawesome/free-solid-svg-icons';
 
-const Footer = () => {
-    // library.add(fab, faFacebookSquare, faTwitterSquare, faInstagramSquare, faYoutubeSquare, faGoogle, faIdCard)
-
+const Footer = () => { 
     return (
         <div className=" bg-primary p-5 mt-5">
             <Row xs={1} md={2}>
